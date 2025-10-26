@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+PyPDF2
+langchain
+openai
+faiss-cpu
+python-multipart
+pytest
+requests
